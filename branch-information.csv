@@ -1,0 +1,403 @@
+primary_name,Address,city,Lunch Capacity,Dinner Capacity,pdr,Min Pdr Qty,BarAvailable,Valet Parking,Complimantary Drinks,Outlet Timings,Live Music,TV,Wheel Chair,Lift,Baby Chair,Landmark For Outlets
+"Acropolis Mall, East Kolkata Township","4th floor Acropolis mall, Sector 1,1858/1 Rajdanga main road, East Kolkata Township, Kolkata West Bengal 700107",Kolkata,120,120,false,0,True,No,We serve 1 round of complimentary drinks in Lunch from Monday to Friday..,"Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm
+
+ 
+
+
+
+
+
+Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm",False,False,False,True,True,Acropolis mall
+"Ahluwalias Great Mall, DCM Rd","2nd floor,Ahluwalias Great Mall, DCM Road, Kota, Rajasthan - 324005",Kota,115,115,false,0,False,No valet parking ( Mall Parking chargable),No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,True,False,False,True,True,ALUWALIA THE GREAT MALL
+"Alcazar Mall, Jubilee Hills","ALCAZAR MALL, 498, Rd Number 36, 4th Floor,Venkatagiri, Jubilee Hills, Hyderabad, Telangana 500033",Hyderabad,158,158,false,0,False,Mall Parking chargable,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,False,True,
+"Amanora Mall, Hadapsar","Mundhwa - Kharadi Rd, Amanora Park Town, Hadapsar, Pune, Maharashtra 411028",Pune,180,180,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm.,False,False,False,False,True,"East Block, Anmora Town Center"
+"Ambience Mall, Sector 24","4TH FLOOR,GATE NO. 4  AMBIANCE MALL, AMBIANCE ISLAND, NH8, 
+
+GURUGRAM HARYANA-122002",Gurugram,120,120,false,0,True,Mall Parking chargable,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.00 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,Smash gaming center
+"Anna Salai, Kosapet","1st Floor, Door No 16/1, Officers Line, Next to Reliance Trends, Anna Salai, Kosapet, Vellore, Tamil Nadu 632001, India",Vellore,96,96,false,0,False,Only Parking Assistance,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,True,Anna salai opp harish food zone
+"Atria Mall, Worli","Atria Mall, 4th Floor, Dr. Annie Besent Road, Worli, Lotus Colony, Worli, Mumbai, Maharashtra 400018",Mumbai,152,152,true,16,True,Self Free Parking,Only for Lunch from Wednesday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 11.00 pm <br><br/>,False,False,True,True,True,"Dr. Annie Besent Road, Worli, Lotus Colony"
+Attapur,"PILLER NO, 175 HH FORTUNA DR KHAYYAM NAGAR RAMBAGH COLONY ATTAPUR TELANGANA 500028
+
+",Hyderabad,158,158,false,0,False,YES,Mon to Sat lunch only,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,True,False,False,True,True,Hppy home fortuna opp. Piller no 175
+Banjara Hills,"ANR Center,6-3-249/5/1, First Floor, Rd Number 1, opposite City Central, Banjara Hills, Hyderabad, Telangana 500034",Hyderabad,160,160,false,0,True,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,False," Wipro Lake, Financial District, Gachibowli, "
+Bhartiya Mall of Bengaluru,"Barbeque Nation, 1st Floor, Bhartiya Mall of Bengaluru, Bhartiya City, Thanisandra Main Rd., Kannuru, Bengaluru- 560064
+
+",Bengaluru,142,142,false,0,False,NA,Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,Bhartiya Mall Thanisandra
+"Block A, Rajouri Garden","A2/41,3rd Floor, Rajouri Garden New Delhi 110027",New Delhi,154,154,false,0,True,NO,Lunch : Monday to Friday / 1 Round / Soft drink or Mocktail,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False, Rajouri Garden
+Bussy Street,"Naga Progress Avenue, No 120, Bussy Street, Pondicherry, 605001, India",Pondicherry,96,96,false,0,True,Road Side Self Parking,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,False,"indian overseas bank,chinna manikandan"
+"Caculo Mall, Panaji","Barbeque Nation, Caculo Mall, 5th Floor, St. Inez, Near Vintage Hospital, Panaji, Goa - 403001",Goa,118,118,false,0,True,Only Parking Assistance,Only for Lunch from Wednesday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True," Caculo Mall,"
+"Celebration Mall, Bhuwana","3rd Floor, NH-8, The Celebration Mall, Udaipur, Rajasthan 313004, India",Udaipur,100,100,false,0,True,"No valet parking ( ""Mall Parking - paid parking""  )",No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,Celebration mall YESor
+Central Cinemas,"Ground Floor, Central Cinemas, Laxmindra Nagar, Udupi Main Road, Manipal, Karnataka 576104",Manipal,100,100,false,0,False,Mall Parking,No,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,MAK AMLL NEAR KANKANDY FATHER MULLER ROAD
+"Centro Mall, MG Road"," LEPL, Centro Mall, 3rd Floor, 40-1-147, Opp.CPR Hotel Fortune, Murali Park, MG Road, Labbipet, Vijayawada, Andhra Pradesh 520010",Vijayawada,120,120,false,0,False,Mall Parking chargable,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,Opp Fortune murali park hotel 
+Chrompet,"Raj Meridian hotel building adjacent to Sony Showroom on GST Road, Chennai, Tamil Nadu 600047",Chennai,118,118,false,0,False,No,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,True,
+"Cine Mall, Race Course Road","Third Floor, Cine mall, Race Course Road, Near Natubhai Circle, Vadodara, 390007 Gujarat",Vadodara,220,220,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,"Lunch open by 12.00 pm and close by 4.30 pm and last entry is 3.00 pm,<br><br/> Dinner start by 06.30 pm and close by 11.00 pm and last entry is 10.00 pm<br><br/>",False,False,True,True,True,NEAR NATUBHAY CIRCLE 
+"City Center Mall, Untwadi Road","City center mall, lawate nagar untwadi road,banyan square, nashik-422002",Nashik,112,112,false,0,True,Mall Parking,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,city center mall
+City Centre,"First floor Pushpanjali, Plot No. C-71/A, Shahid Khudiram Sarani, City Center, Durgapur, West Bengal 713216",Durgapur,112,112,false,0,False,No,Only for Lunch from Monday to Friday  one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,Fortune park Pushpanjali
+"City Centre, Railway Station Road","3rd Floor, City Center, Bharuch Bus Station, Railway Station Road, Moficer Jin Compound, Bharuch, Gujarat 392001
+
+",Bharuch,84,84,false,0,False,NA,NA,Lunch open by 12.00 pm and last entry 03.30 pm and close by 04.30 pm and Dinner open by 06.30 pm and last 10.45 pm.,False,False,False,False,False,Bharuch Bus Station
+"City Mall, Civil Lines","3rd Floor, No, City Mall, 10, Park Rd, Civil Lines, Gorakhpur, Uttar Pradesh 273009",Gorakhpur,122,122,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close 12.00 am and last entry for lunch 11.00 pm <br><br/>,True,False,False,True,False,City Mall
+"City Plaza Building, Abids","3rd Floor, City plaza building, opposite to St. George's Grammar School, Abids, Hyderabad, Telangana 500029",Hyderabad,128,128,false,0,False,NO,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner by 06.30 pm and close by 11.30 pm and last entry 10.45 pm <br><br/>,True,False,False,True,True,City plaza building
+"Clover Hill Plaza, NIBM Road","R Floor ( 5th Floor ),Clover Hills Plaza, NIBM Road,Pune, Maharastra - 411048",Pune,100,100,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm.,True,False,False,True,True,Clover Hills Plaza
+Connaught Place,"Munshilal bulding 2nd Floor N-19, Block N, Connaught Place, New Delhi, Delhi 110001, India",New Delhi,100,100,true,20,True,Self Parking.,Lunch : Monday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,"Munshilal bulding 2nd Floor N-19, Block N"
+"Contractors Area, Bistupur","Contractors area, near Centre Point Hotel,Jamshedpur
+
+",Jamshedpur,130,130,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch from Monday to Friday.,Lunch open by 12:00 PM and close by 04.30 pm and last entry by 03.30 PM & Dinner open by 6:30 PM and close by 11.45 pm and last entry by 11.00 pm.,True,False,False,True,True,Near Centre Point Hotel
+Cosmos Mall,"3rd Floor Ashok CosmosMall, Block No.119/8, Sanjay Place,Civil Lines, Agra, Uttar Pradesh -282002",Agra,138,138,false,0,False,No,No,Monday to Friday lunch open by by 12.00 pm and close 11.00 pm and last is 10.00 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 11.00 pm and last entry 10.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close by 11.00 pm and last entry 10.00 pm <br><br/>,False,False,False,True,True,Ashok Cosmos Mall
+"Crown Interiorz Mall, Sec-35","2nd Floor, Crown Interiorz Mall Mathura  Road Sec-35, DLF Industrial Area Faridabad, Haryana 121003, India",Faridabad,140,140,false,44,True,No valet parking ( Mall Parking chargable),Only for Lunch on Friday  one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,near healment circle just opssite r3mall sataya one on 1floor
+"Crystall Mall, Kalawad Road","3rd Floor,Crystal Mall,Opp. Rani Tower,Kalavad Road, Rajkot, Gujarat 360005",Rajkot,95,95,false,0,False,YES,No,"Lunch open by 12.00 pm and close by 4.30 pm and last entry is 3.30 pm,<br><br/> Dinner start by 06.30 pm and close by 11.00 pm and last entry is 10.00 pm<br><br/>",False,False,True,True,True,rani tower building
+Del- Saket Southern Park,"G Floor 09,10,11,12 & 14A, Southern Park Saket, Discrict Center, Saket, New Delhi 110017
+
+",New Delhi,120,120,false,0,True,No,Monday to Friday lunch one round soft drink,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,False,False,Select City Mall
+"Diamond Plaza, Jessore Road","Unit No-01, 4th Floor,Diamond Plaza, 68 Jessore Road, Bangur Avenue, Kolkata, West Bengal 700055",Kolkata,112,112,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True, Bangur Avenue
+DLF Porur,"Barbeque Nation, Survay No:38/1,Door No:173,Secound Floor,Mount Ponamali High road,Porur,Chennai-600116",Chennai,140,140,false,0,False,No,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,Near DLF
+"DN Regalia Mall, Patrapada","6th floor,Service road South Tamando DN Square, Kalinga Vihar, Patrapada, Odisha 751019",Bhubaneswar,138,138,true,25,True,No,Only for Lunch from Wednesday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.00 pm <br><br/>,False,False,False,True,True,DN Regalia mall 
+"Downtown 44, NH-44","1st floor Carnation Greens, Downtown Jammu Highway, Pathankot -145023
+
+",Pathankot,108,108,false,0,True,Mall Parking,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,"Carnation Greens, Downtown Jammu Highway"
+"DSL Virtue Mall, Uppal","Unit No.F0.03.04&05,4th Floor,DSL Virtue Mall,Near R G I Cricket Stadium Industrial Devepment Uppal pin 500039 
+
+",Hyderabad,130,130,false,0,False,NO,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday..,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,R G I Cricket Stadium
+"Durga Infinity Mall,Bailey Rd","5th Floor,Durga Infinity,Bailey Road,Khajpura,Patna, 800014
+
+",Patna,192,192,false,0,False,No,We serve 1 round of complimentary drinks in Lunch from Monday to Friday,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,False,"Near Shiv Mandir,Khajpura"
+EDM MALL KAUSHAMBI,"BARBEQUE NATION, 2ND FLOOR EAST DELHI MALL, KAUSHAMBHI, GHAZIABAD,UTTAR PRADESH -201001
+
+",Ghaziabad,136,136,false,0,False,"MALL PARKING, CHARGEABLE ",We serve 1 round of complimentary drinks in Lunch from Monday to Friday,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,True,False,False,True,True,KAUSHAMBHI
+Electronic City,"99, 14th Cross Road, Neeladri Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Bengaluru,124,124,false,0,False,Self Parking chargable,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,Next to Ajmeera apartments
+"Elpro Mall, MG Road","3rd Floor, Elpro City Square Mall, Pune, Maharashtra, 411033
+
+",Pune,128,128,false,0,True,NO,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm.,True,False,False,True,True,Elpro Mall
+"Eros Mall, Sector 20A","EROS EF3 Mall, 2nd Floor, Sec-20A, Opposite Old Faridabad Metro Station, Faridabad, Haryana 121001, India",Faridabad,120,120,false,0,True,No valet parking ( Mall Parking - paid parking),Np,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,hotel bela kata  bitoo bypass
+"Eternity Mall, Amravati Road","Amravati Rd, Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",Nagpur,104,104,false,0,True,Mall Parking,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,AMRAVATY ROAD
+Ferozpur Road,"2nd Floor, Dhanraj Sing Complex Gate No. 1 Ferozpur Road, Gate Number 1 Rd, near Punjab Agricultural University, Ludhiana, Punjab 141001",Ludhiana,110,110,false,0,True,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,na
+"Fiesta, Ashok Inox patna","4t Floor KP Mall, Buddha Marg, Kotwali Town, Patna-800001
+
+",Patna,90,90,false,0,False,NA,NA,"12:00 PM to 2:30 PM
+
+2:30 PM TO 4:30PM
+
+6:30 PM TO 9:15 PM
+
+9:15 PM TO 11.30 PM
+
+",False,False,False,False,False,"Opposite ISKONTemple, Above Reliance Smart Bazar"
+Fiesta - New Market,"No-20A,1st floor Humayan court,Nellie sengupta sarani,(Formerly lindsay Street)Kolkata-700087
+
+",Kolkata,132,132,true,25,False,Only Parking Assistance,No,Lunch open by 12.00 pm and last entry 03.30 pm and close by 04.30 pm and Dinner open by 06.00 pm and last 10.45 pm.,False,False,False,True,True,Humayan Court
+Fiesta- Swaroop Nagar,"3rd Floor, Swaroop nagar(Max Building) Kanpur-208002",Kanpur,104,104,false,0,True,NO,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close 12.00 am and last entry for lunch 11.00 pm <br><br/>,True,False,False,True,False,"Near Prakhar Hospital, Khalasi Line"
+Fiesta- Vega City Mall,"Vega City, Bannerghatta Road. PVR Cinemas, 4th Floor, Vega City Mall,172/1, Bannerghatta Main Road, JP Nagar 3rd Phase, Dollar Layout, Bengaluru-Karnataka, 560076
+
+",Bengaluru,120,120,true,0,False,No,No,"Lunch open by 12.00 pm and close by 4.45 pm and last entry by 4.00 pm.
+
+Dinner open by 06.30 pm and close by 11.45 pm and last entry by 11.00 pm",False,False,False,False,False,PVR Cinemas
+"Forum Sujana Mall, Kukatpally","Restaurant No.2, Sy.no.1009, 4th floor Kukatpally Village,KPHB VI Phase Balanagar Mandal, Hyderabad, Telangana 500072",Hyderabad,163,163,false,0,False,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,False,Forum Sujana Mall
+Fun Republic Lokhandwala Mumbai,"Fun Republic 6th Floor, Veera Desai Industrial Estate, Andheri West, Maharastra - 400047",Mumbai,104,104,false,0,True,Self Mall Parking chargable,Lunch / Wednesday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 11.00 pm <br><br/>,True,False,False,True,True,"Fun Republic 6th Floor, Veera Desai Industrial Estate, Andheri West, Maharastra - 400047"
+Fun Republic Mall,"Avinashi Rd, Near PSG Krishnammal College, Masakalipalayam, Peelamedu, Coimbatore, Tamil Nadu 641004
+
+",Coimbatore,126,126,false,0,False,NO,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,Fun Republic Mall
+"Gaur Central Mall, Raj Nagar","5th Floor, Gaur Central Mall, RDC, Opposite HDFC Bank, Raj Nagar, Block 1, P & T Colony, Ghaziabad, Uttar Pradesh 201002",Ghaziabad,118,118,false,0,True,Mall Parking chargable,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,Beside Dubai mall
+"Gaur City Mall, Sector 4","5th floor,Gaur city mall,Greater noida w rd,sector 4 Greater Noida,Uttar pradesh 201301
+
+",Noida,120,120,false,0,False,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,False,False,Near PVR cinema
+GMS Road,"TRI JUNCTION, KALA PALACE, SOLUS TOWERS, GENERAL MAHADEV SINGH RD,DEHRADUN, UTTARAKHAND, 248146.
+
+",Dehradun,102,102,false,0,True,NA,No,Lunch open by 12.00 pm and close by 05.00 pm and last entry 04.00 pm. Dinner open by 06.30 pm and close by 11.00 pm and last entry by 10.00 pm.,True,False,False,True,True,GENERAL MAHADEV SINGH RD
+"Grand Highstreet Mall,Hinjewadi","Phase 1, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Maharashtra 411057",Pune,160,160,false,0,True,NA,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm.,True,False,False,True,True,Global HighStreet Mall
+"Grand Horizon Mall, Singhad Road","2nd Floor, Grand Horizon Mall, Sinhgad Rd, Manik Baug, Anand Nagar, Pune, Maharashtra 411041
+
+",Pune,130,130,true,0,True,NA,Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail.,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:30 PM TO 9:15 PM
+
+9:15 PM TO 11.00 PM",True,False,False,True,True,Grand Horizon Mall
+"Grand Mall, Sector 28","3rd Floor, Shop No 3, DLF Grand Mall, Mehrauli Gurgaon Road, Near Sikanderpur Metro Station, DLF Phase 1, Sector 28, Gurugram, Haryana 122001, India",Gurugram,150,150,false,0,True,No valet parking ( Mall Parking chargable ),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,"DLF Grand Mall, Mehrauli Gurgaon Road, Near Sikanderpur Metro Station, DLF Phase 1"
+Greater Noida Sec Beta 2,"3rd Floor Omaxe Connaught Place Mall, Near CNG Filling Station, Sector Beta 2, Greater Noida, Uttar Pradesh 201306",Noida,126,126,false,0,True,Mall Parking,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,"Sec B-2,Near CNG filling station"
+"Growels Mall, Kandivali","3rd Floor, Growels Mall, Akurli Road, Samata Nagar, Kandivali East, Mumbai - 400101
+
+",Mumbai,160,160,false,0,True,NO,Only for Lunch from Wednesday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 11.00 pm <br><br/>,False,False,False,True,False,GROWELS 101 MALL
+GSM Mall Miyapur," fourth Floor, Gsm Mall, ICRISAT Colony, Miyapur, Hyderabad - 500049 ",Hyderabad,128,128,false,0,False,No,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,True,False,False,True,True,GSM Mall
+"Hotel Savoy Suites, Sector 16",ground floor hotel savoy suite A79A SECTOR 16 NOIDA.UP-201301.INDIA,Noida,148,148,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,NEAR MC D
+Indiranagar,"No.4005, HAL 2nd stage, 100 feet road, Indiranagar, Bangalore- 560038",Bengaluru,160,160,false,0,True,YES,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,"Lido Mall, Swami Vivekananda Road, Halasuru, "
+"ITPL,Whitefield","1st Floor, Ascendas Park Square Mall, ITPL, Whitefield Road, Bengaluru, Karnataka 560066",Bengaluru,188,188,false,0,True,No valet parking ( Mall Parking ),Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,"Ascendas Park Square Mall, ITPL"
+"Jagat Mall, Gorakhpur Road","3rd Floor, Jagat Mall, Gorakhpur Rd, Jabalpur, Madhya Pradesh, 482001",Jabalpur,106,106,false,0,False,No,No,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close 12.00 am and last entry for lunch 11.00 pm <br><br/>,False,False,False,True,False,Jagat mall
+"Jessore Road, Barasat","Barasat, Dak Banglow More, N-19, Jessore Rd, Digberia, Kolkata, West Bengal 700124",Kolkata,148,148,false,0,False,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,Dak Banglow More
+"JHV Mall, The Mall Road","3rd Floor, JHV Mall, The Mall Rd, Varanasi Cantt, Varanasi, Uttar Pradesh 221002",Varanasi,106,106,false,0,True,"No Valet Parking ( ""Mall Parking - paid parking"")",Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close 12.00 am and last entry for lunch 11.00 pm <br><br/>,False,False,False,True,True,4th floor mall road varnasi
+JP Nagar,"67, 3rd Floor, 6th B Main, Phase III, J P Nagar, Bengaluru, Karnataka 560078, India",Bengaluru,144,144,false,0,True,Only Parking Assistance,"Lunch / Tuesday, Wednesday, Friday and Saturday / 1 Round / Soft drink",Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,Gold's Gym
+"Kakkanad, Airport Road","""
+
+3rd floor Esperanza, Kochi, Seaport - Airport Rd,
+
+Thuthiyoor, Chittethukara, Kakkanad, Kerala- 682037.
+
+""
+
+",Kochi,144,144,false,0,False,NA,Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:30 PM TO 9:00 PM
+
+9:00 PM TO 11.00 PM",True,False,False,True,True,Seaport - Airport Rd
+Kalyan Nagar,"No. 30, B.R.Plaza, 3rd Floor, 4th Cross, CMR Road, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",Bengaluru,115,115,false,0,True,Only Parking Assistance,Only for Lunch from Friday and  Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,
+Kalyani Nagar,"Palace View Road, Near Aga Khan Palace, Nagar Rd, Kalyani Nagar, Pune, Maharashtra 411006",Pune,200,200,true,60,True,YES,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm.,False,False,True,False,True,"Building,Opposite Shree Hospital"
+Kanakpura Road,"Doddakallasandra Village, Kanakapura Main Road, Hobli, Uttarahalli Hobli, Bengaluru, Karnataka 560062",Bengaluru,114,114,false,0,False,Yes,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,Above KFC 3rd floor Kanakpura
+"KNK Road, Nungambakkam","2nd Floor, #5/3 Bergamo Mall, Khader Nawaz Khan Road, Srirampuram, Nungambakkam, Chennai, Tamil Nadu-600006,India.",Chennai,148,148,false,0,False,No valet parking ( Mall Parking chargable ),Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,KHADARNAWAZ KHAN ROAD
+Kompally,"2nd Floor,H.No.3-72, 2nd Floor, PPR Complex, Kompally, Secunderabad, Telangana 500014",Hyderabad,138,138,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday..,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,True,False,False,True,True,"PPR Complex, Komapally"
+Kondapur,"G-3, Sri Mythri Square, Opp Sarath City Mall, Kothaguda  (Kondapur )Hyderabad - 500084 . 
+
+",Hyderabad,130,130,false,0,False,Yes,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,True,False,False,True,True,Sarath city Capital mall
+Koramangala 1st Block,"1st Cross Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",Bengaluru,176,176,false,0,True,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,"1st Cross Rd, 1st Block Koramangala"
+Koramangala 7th block,"118, 1st Floor,80 Feet Rd, KHB Colony, 7th Block, Koramangala, Bengaluru, 560095",Bengaluru,148,148,false,0,False,Yes,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,KHB Colony
+Korum Mall Thane,"2nd Floor, Korum Mall, Mangal Pandy Road, Near Cadbury Compound, Eastern Express High Way.Thane- 400606",Mumbai,132,132,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 12.00 am and last entry 10.45 pm <br><br/>,False,False,False,True,True,Anna salai opp harish food zone
+Kothapet," Unit No.G-3, Ground Floor, Vishnavi Onyx-1, no.8 & 9/1/1/15, Kiran Nagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana 500035",Hyderabad,170,170,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,True,False,False,True,True,Vishnavi Onyx-1
+Lachit Nagar,"2nd Floor,, Adityam Building, Guwahati-Shillong Rd, Ulubari, Guwahati, Assam 781007",Guwahati,142,142,false,0,True,Yes,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and Close by 04.30 pm and Last entry for lunch 03.30 pm <br><br/><br><br/>Dinner open by 06.30 pm and close 11.30 pm and last 10.30 pm,False,False,False,True,True,Opp Dell Emc
+"Lake Mall, Kalighat","Rash Behari Avenue, Kolkata, West Bengal 700029",Kolkata,110,110,false,0,False,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,
+"Lakshmipuram Main Rd,Ashok Ngr","Aapanam Building, Door No: 5-87-34/8,
+
+ 3rd Floor Lakshmipuram MainRoad,
+
+ Landmark- Next to Bakers's Fun, 
+
+Guntur-AP  522006",Guntur,96,96,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,near to bakery sun
+Laxmi Nagar,"BARBEQUE NATION 1ST FLOOR, B-126/10 GURUNANAKPURA, LAXMI NAGAR NEAR V3S MALL, NEW DELHI-110092",New Delhi,126,126,false,0,True,NA,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,False,True,"BARBEQUE NATION 1ST FLOOR, B-126/10 GURUNANAKPURA, LAXMI NAGAR NEAR V3S MALL, NEW DELHI-110092"
+Lido Mall Mg Road,"1/4, Ground Floor, Lido Mall, Swami Vivekananda Road, Halasuru, Bengaluru, Karnataka 560008, India",Bengaluru,120,120,false,0,True,Mall Parking chargable,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,MG ROAD LIDO MALL NEAR METRO STATION
+"Lulu Global Mall, Rajajinagar","Barbeque Nation Hospitality limited, LG floor, Gopalapura, Binnipete, Bengaluru, Karnataka 560023
+
+",Bengaluru,174,174,false,0,False,NA,Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,BLR-Lulu Global Mall
+"Lulu Mall, Amar Shaheed Path","Barbequenation-3rd Floor Lulu Mall, Amar Shaheed Path, Golf City, Sector B Ansal API,, Lucknow Tahsil, Lucknow, Uttar Pradesh-226030
+
+",Lucknow,162,162,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:00 PM TO 9:15 PM
+
+9:30 PM TO 11.00 PM",True,False,False,True,True, Lucknow Tahsil
+"Lulu Mall, Anayara"," 2nd floor,Lulu International Shopping Mall Pvt. Ltd TC 91/270, Akkulam Bridge, Anayara Post, Thiruvananthapuram, Kerala 695029
+
+",Trivandrum,120,120,false,0,False,NA,Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail.,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:30 PM TO 9:00 PM
+
+9:00 PM TO 11.00 PM",True,False,False,True,True,LULU MALL 
+"Lulu Mall, Edappally","3rd floor 34/1000, Old NH 47, Edappally Junction, Nethaji Nagar, Edappally, Kochi, Kerala 682024
+
+",Kochi,120,120,false,120,False,NA,Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail.,"12:00 PM to 2:30 PM
+
+2:30 PM TO 4:30PM
+
+6:30 PM TO 9:00 PM
+
+9:00 PM TO 11.00 PM",True,False,False,True,True,Edappally
+"M3M IFC, Sector 66","2nd Floor, M3M International Financial Center, Badshahpur, Sector 66, Gurugram, Haryana 122002
+
+",Gurugram,144,144,false,0,True,NO,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,False,False,M3M-IFC
+Madhurawada," 3rd Floor Arena Building 100 feet Road, adjacent to Mango Hero Showroom, Midhilapuri Vuda Colony, Madhurawada, Visakhapatnam- 530041 
+
+",Visakhapatnam,114,114,false,0,False,NO,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday..,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True, Arena Building
+"Magneto Mall, Jivan Vihar","Unit SFPH 02-03, 2nd Floor, Magneto The Mall, G E Road, Labhandi, Jivan Vihar, Raipur, Chhattisgarh, 492010",Raipur,108,108,false,0,False,No,Only for Lunch from Monday to Friday  one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/><br><br/> Dinner by 06.30 pm and close 11.30 pm and last 10.30 pm,False,False,False,True,True,Raipur Magneto mall
+"Mak Mall, Kankanady","Mak Mall, Father Mullers Rd, Kankanady, Mangaluru, Karnataka 575002, India",Mangalore,114,114,false,0,False,Only Parking Assistance,Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,make mall 3floor kankanady mangalore
+"Manghalam Towers, Reynolds Rd","9, Reynolds Road, Cantonment, Tiruchirappalli, Tamil Nadu 620001, India",Trichy,90,90,false,0,False,NO,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,REYNOLDS ROAD MANGLAM CINIMA
+"Marina Mall, Egattur","Barbeque nation chennai,Marina mall 3rd Floor 13/1A Old Mahabalipuram Road Egattur,Tamil Nadu-603103  
+
+",Chennai,142,142,false,0,False,NA,Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,"Lunch open by 12.00 pm and close by 4.45 pm and last entry by 4.00 pm.
+
+Dinner open by 06.30 pm and last entry by 11.00 pm and close by 11.45 pm",False,False,False,False,False,Old Mahabalipuram Road 
+"Max Building, Circular Road","No 48, 3rd Floor, Max Building, Circular Road Next to Pantaloons Store, Ranchi, Jharkhand 834001",Ranchi,120,120,false,0,False,No,Only for Lunch from Monday to Friday  one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/>Dinner by 06.30 pm and close 11.30 pm and last 10.30 pm,False,False,False,True,True,max Showroom 3rdfloor
+"Metro Junction Mall, Kalyan","2nd Floor, Metro Junction Mall, Netivali, Shil Road, Kalyan Near Metro Residency Complex, Kalyan, Maharashtra 421306, Kalyan East, Mumbai, Maharashtra 421306, India",Mumbai,104,104,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Wednesday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,Metro juncation mall kalyan
+"Millenium Mall, KK Nagar","Milan'em Mall, 100 Feet Road, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",Madurai,89,89,false,0,False,Mall Parking,Only for Lunch from Wednesday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,Millaniem mall 
+Model Town,"Model Town : 2nd & 3rd Floor, B2 Gujranwala Town Part 1 Model town, New Delhi 110009
+
+",New Delhi,90,90,false,0,False,n/a,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,True,False,False,True,True,Part 1 Model town
+"More Mega Mall, Marathahalli","Barbeque Nation,No 204 SY  88  3rd floor Munnekolalu village Varthur Hobli  Bangalore 560037
+
+",Bengaluru,186,186,false,0,True,Yes,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,False,Marathahlli 
+"Municipal Office Road, Noyyal","2nd Floor, Veera Avenue, No 24, Above Big Bazaar, Municipal Office Road Near Valarmathi Bus Stop, Tamil Nadu 641604",Tirupur,92,92,false,0,False,No,No,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,True,True,True,"Near Valarmathi Bus Stop,"
+"Nanakramguda Road, Gachibowli","Ground Floor, Anvis Eco Grand, Nanakramaguda Road, Beside Wipro Lake, Financial District, Gachibowli, Hyderabad, Telangana 500036",Hyderabad,105,105,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,False,True,Nanakramaguda Road
+"New Town, Rajarhat","Shop No. 207, Block M, 2nd Floor, New Town Rajarhat,
+
+Action Area IID, Newtown
+
+Kolkata, 
+
+West Bengal 700156,
+
+India",Kolkata,140,140,false,0,True,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,Inside City centre 2 mall
+Nexus Ahmedabad One Mall,"Phase 2, 3rd Floor, Nexus Ahmedabad One,Plot No. 216, TP Scheme 1, Near Vastrapur Lake,Vastrapur, Ahmedabad - 380054, Gujarat
+
+",Ahmedabad,132,132,false,0,False,NA,NA,"1200 to 02.30 hrs	2:30 PM TO 3:30PM	6:30PM TO 9:30PM	9:30PM TO 10:45PM
+
+",False,False,False,False,False,Near Vastrapur Lake
+Nexus Amritsar Mall,"UNIT NO - 36,37 SECOND FLOOR,NEXUS AMRITSAR,MBM FARMS GT ROAD,AMRITSAR PUNJAB,143001
+
+",Amritsar,104,104,false,0,False,NA,No,"12:00 PM to 2:15 PM
+
+2:30 PM TO 3:30PM
+
+6:00 PM TO 9:00 PM
+
+9:15 PM TO 11.30 PM
+
+",True,False,False,True,True,FARMS GT ROAD
+Nexus Mall,"Mysore -The Nexus centre city mall, No-8,Old -5,Abba Road,Also Hyder Ali Road,Nazarabad Mohalla,Mysore Mall-570010",Mysore,112,112,false,0,False,n/a,We serve 1 round of complimentary drinks in Lunch Mon to Sat,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,
+"Nexus Shantiniketan,Whitefield","Barbeque nation Nexus Shantiniketan Mall Whitefiled Main Road, Thiglarapalya krishanarajpura, Bengluru, karanataka,560067
+
+",Bengaluru,116,116,false,0,False,n/a,We serve 1 round of complimentary drinks in Lunch Mon to Sat,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,Whitefiled Main Road 
+Nexus Whitefiled,"Barbeque Nation Nexus Whitefield Mall   3rd floor,No-62 Whitefield Main Road   Bangalore 560066
+
+",Bengaluru,116,116,false,0,False,NA,NA,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,WHITEFILED 
+"NVR Central, Grand Trunk Road","4th Floor, NVR Central, Above Dr. Agarwal Eye Hospital, Grand Trunk Road, Saraswathi Nagar, Nellore, Andhra Pradesh 524004",Nellore,90,90,false,0,False,YES,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,avo agarbal hospital
+Omr,"Barbeque Nation Hospitality Ltd, Rajiv Garden Street, Sakthi Nagar, Okkiyam Thuraipakkam, Chennai, Tamil Nadu 600097, India",Chennai,120,120,false,0,False,Self parking,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,True," Caculo Mall,"
+"One Mall, Fraser Road Area","8th Floor, Patna One Mall, New Dak Bunglow Road, Bander Bagicha, Fraser Road Area, Patna, Bihar 800001",Patna,120,120,false,0,False,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,"Dark Bangalaw Chowk, Patrol pump"
+"Orion Mall, Panvel","FP No 311, 3rd Floor, Orion Mall, Bus Depot, Mumbai - Pune Expy, Panvel, Mumbai, Maharashtra 410206",Mumbai,100,100,false,0,True,No valet parking ( Mall Parking chargable),Lunch / Wednesday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 10.45 pm <br><br/>,False,False,False,True,True,"Model town,matharani chowk"
+"Pacific D21 Mall,Sec-21,Dwarka"," 2nd Floor Pacific Mall, Shop No. SH/2F/05 and SH/2F/08 Dwarka Sec 21, DWARKA, South West, Delhi-110077
+
+",New Delhi,114,114,false,0,False,NA,Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,True,False,False,True,True,Pacific Malll Dwarka sec 21
+"Panchsheel Colony, Garh Road","3rd Floor, Khasra No 5832, Pinnacle Tower, Panchsheel Colony, Vaishali Colony, Panchsheel Colony, Meerut, Uttar Pradesh 250003",Meerut,100,100,false,0,False,Mall Parking,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,NO
+Paras One33 Mall,"2nd floor,  C1 D1, Paras One 33, sector 133,near Jp Wishtown Noida 201304",Noida,130,130,false,0,False,NO,Only for Lunch from Monday to Friday  one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,Paras one 33
+Park Street,"24, 1st Floor, Center Building Park, Park St, Kolkata, West Bengal 700016",Kolkata,160,160,false,0,True,Only Parking Assistance ( Paid Parking ),Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.00 pm and last entry 10.00 pm <br><br/>,False,False,True,True,False,ATR tower 
+"Parle Point, Athwa","1st Floor, Golden Square, Parle Point Flyover, near Sargam Shopping Center, Somanath Society, Umra Gam, Athwa, Surat, Gujarat 395007, India",Surat,120,120,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,"Lunch open by 12.00 pm and close by 4.30 pm and last entry is 3.00 pm,<br><br/> Dinner start by 06.30 pm and close by 11.00 pm and last entry is 10.00 pm<br><br/>",False,False,False,True,True,SARGAM SHOPPING CENTR
+"Parle Square Mall, Vile Parle East","Shyam Kamal Road,Agarwal Market,Vile Parle East,Mumbai, Maharashtra 400057
+
+",Mumbai,130,130,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch(Mon to Fri),Lunch start by 12.00 pm and close by 05.00 pm and last entry by 04.00 pm and Dinner open by 06.30 pm and close by 11.45 pm and last entry by 11.00 pm,True,False,False,True,True,"Agarwal Market,Vile Parle "
+Phoenix Market City,"Phoenix Market City,Whitefield Main Rd, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Bangalore 560048",Bengaluru,144,144,false,0,False,no,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,False,
+"Phoenix Marketcity, Kurla West","Barbeque Nation Hospitality Ltd, Unit no-S-49,50, 2nd floor, Phoenix Market City, Kurla Mumbai-400070.
+
+",Mumbai,110,110,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Wednesday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 11.00 pm <br><br/>,True,False,False,True,False,Kurla Phoenix Mall
+"Pithapuram Road, Kakinada","SRMT Mall & Multiplex uni no 2 4th floor D.No.4-21,pithampuram Road Kakinada 533005 Andhra Pradesh
+
+",Kakinada,96,96,false,0,False,No,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner by 06.30 pm and close by 10.30 pm and last entry 09.30 pm <br><br/>,True,False,False,True,True,SRMT MALL
+"Platina Mall, Howrah","Barbeque Nation Hospitality limited,,5th floor,Platina Mall, Nitydhan Mukherjee Rd, Opposite Howrah Maidan, West Bengal-711101
+
+",Kolkata,96,96,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch from Monday to Friday.,"Lunch open by 12.00 pm and close by 4.30 pm and last entry by 3.30 pm.
+
+Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm",False,False,False,True,True,Opposite Howrah Maidan
+Prahlad Nagar,"1st Floor, Holiday INN Express Hotel, 100 Feet Road, Beside Venus Atlantis, Prahlad Nagar, Ahmedabad, Gujarat 380015, India",Ahmedabad,116,116,true,16,False,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,"Lunch open by 12.00 pm and close by 4.30 pm and last entry is 3.15 pm,<br><br/> Dinner start by 06.30 pm and close by 11.00 pm and last entry is 10.30 pm<br><br/>",False,False,True,True,True,Prahlad Nagar
+Prozone Mall,"1st floor & Lower Ground Floor,Prozone Mall,Plot No-P-80,Chikalthana Industrial Area,masanatpur,Aurangabad-431006",Aurangabad,100,100,false,0,False,No valet parking ( Mall Parking chargable),Only for Lunch from Wednesday and Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.45 pm and last entry for lunch 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,prozone mall
+"Punjabi colony, Gannipur","Near Reliance Pertol Pump, Shivmitra Tower,above Zudio
+
+",Muzaffarpur,104,104,false,0,False,NA,Monday to Friday Lunch one soft drink,"Lunch Open by 12.00 pm and close by 04.30 pm and last entry by 03.30 pm & 
+
+Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.00 pm",False,False,False,True,True,"Near Reliance Pertol Pump, above Zudio"
+"R Deccan Mall, JM Road","3rd Floor R Deccan Mall, J M Rd, Pulachi Wadi, Deccan Gymkhana, Pune, Maharashtra 411004, India",Pune,186,186,false,0,True,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm.,False,False,False,True,True,NO
+"Rainbow Road, Model Town","387-L, Prakash Nagar Rd, Prakash Nagar, Model Town, Jalandhar, Punjab 144003",Jalandhar,88,88,false,0,True,Yes,Only for Lunch from Monday to Friday one round soft drink or Mocktails or One Pint of Beer.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,"Model town,matharani chowk"
+Rajpur Road,"1St Floor Chodhary Plaza opposite of silver city multiplex Rajpur Road Dehradun, 248001",Dehradun,110,110,false,0,True,Only Parking Assistance,Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close by 05.00 pm and last entry 04.00 pm. Dinner open by 06.30 pm and close by 11.00 pm and last entry by 10.00 pm.,False,False,False,True,True,opp silver city mall
+"Rampur Garden, Civil Lines","Barbeque Nation, 3rd Floor, No 35/1/3, Above Tanishq Showroon, NH 24, Rampur Garden, Civil, Lanes, Rampur Garden, Bareilly,Uttar Pradesh 243001",Bareilly,96,96,false,0,True, ( Mall Parking chargeable ),No,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,CIVIL LAND CONECT BULDING NEAR PRABHA CINIMA
+Rao Mall,"2nd floor,RAO Trade Center, Opp Bank Of Baroda, 24 Magarpara, Link Rd, Bilaspur, Chhattisgarh 495001
+
+",Bilaspur,106,106,false,0,False,No,No,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/><br><br/> Dinner by 06.00 pm and close 11.30 pm and last 10.30 pm,False,False,False,True,True,Rao Mall
+"River Side Mall, Gomti Nagar","3RD FLOOR RIVAR SIDE MALL,GOMTI NAGAR,LUCKNOW Uttar Pradesh 226016",Lucknow,125,125,false,0,True,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,False,False,True,True,True,NEAR LuckNOw DEVELPOMENT AUTHROTY BUILDING
+"RMZ Azure, Hebbal","Barbeque Nation Hospitality Ltd
+
+BLR-HEBBAL RMZ AZURE
+
+Unit No. D2, Rm azure, Bellary Rd, next to Godrej Apartments, Hebbal Kempapura, Bengaluru, Karnataka 560092.",Bengaluru,104,104,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch from  Monday  to Saturday..,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,True,Godrej Apartments
+"Rohtas Summit, Gomti Nagar","No. B- 304 to 307,3RD FLOOR,3/3, Vibhuti Khand,
+
+Gomti Nagar,LUCKNOW, Uttar Pradesh 226010",Lucknow,164,164,false,0,True,YES,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,True,True,False,True,False,Rohtas Summit
+"Rosa Vista, Ghodbunder Road","Barbeque Nation Hospitality LTD 4th Floor, Rosa Vista, Above Honda Showroom, Opposite suraj Water Park, Thane Mumbai 400607, Ghodbunder Rd, Thane West, Mumbai, Maharashtra 400607, India",Mumbai,132,132,true,50,True,YES,Only for Lunch from Wednesday and Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.00 am and last entry 10.45 pm <br><br/>,False,False,True,True,True,"Rosa Vista, Above Honda Showroom, Opposite suraj Water Park"
+"RSR Square Mall, Sandhya Circle","RSR SQUARE, SANDYA CIRCLE, 1/700, Railway Station Rd, Dwaraka Nagar, Yerramukkapalli, Kadapa, Andhra Pradesh 516001",Kadapa,112,112,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:00 PM TO 8:00 PM
+
+8:00 PM TO 10.00 PM",True,False,False,True,True,Railway Station Road
+"Rukmani Colony, AS Rao Nagar"," Poulami Hospital, 3rd Floor, Plot No A3, Rukmini Colony, Dr AS Rao Nagar, Secunderabad, Telangana 500062",Hyderabad,120,120,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,True,False,False,True,True,Near Poulami Hospital
+"RV Square, Greater Kailash","1st Floor, RV Square, Lane No. 11, R V SEVEN SQUARE, Greater Kailash, Jammu, Jammu and Kashmir 180011",Jammu,102,102,false,0,True,Road Side Parking,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,ezay day
+Sachivalay Marg,"3rd Floor,Triplex Mall, Gajpati Nagar Nalco chowk, Bhubaneswar, Odisha-751005",Bhubaneswar,116,116,true,25,False,NO,Only for Lunch from Wednesday to Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.45 pm and last entry for lunch 04.00 pm <br><br/> Dinner open by 06.30 pm and close by 11.45 pm and last entry 11.00 pm <br><br/>,False,False,False,True,True,Sachivilay marg near nalkochok near gagan awas appartment
+Salarpuria Sattva Knowledge City,"Shop No.4 & 6, part of Unit 2B,No.83/1 in Plot No.2 in Phase 1 of CyberabadÃ?Â Knowledge City,Telangana-500081
+
+",Hyderabad,116,116,false,0,True,NA,NA,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:00 PM TO 8:00 PM
+
+8:00 PM TO 10.00 PM
+
+",True,False,False,True,True,KnowledgeÃ??Ã?Â City
+"Saral Xperia Mall, Sky Forest","2nd Floor, Saral Xperia, Sky forest Building, Opp. Agora Mall, Near Bhat Circle, SP Ring Road, Ahmedabad Gujarat 382424",Ahmedabad,112,112,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,"Lunch open by 12.00 pm and close by 4.30 pm and last entry is 3.15 pm,<br><br/> Dinner start by 06.30 pm and close by 11.00 pm and last entry is 10.00 pm<br><br/>",False,False,False,True,False,Sky Forest Building
+Sarjapur Road,"No 53/1,Barbeque Nation, 3rd Floor, Ashrith Aries, Marathahalli - Sarjapur Rd, opposite HP Petrol Pump, Doddakannelli, Bengaluru, Karnataka 560035
+
+",Bengaluru,165,165,false,0,True,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,True,False,True,True,Above Brand factory and Opt to HP Petrol Bunk.
+"Savoy Greens, GT Road","1st Floor,Savoy Greens, Village Uchana,Karnal Haryana, 132001",Karnal,104,104,false,0,False,No,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,Savoy Greens
+"Sayaji Hotel, Wakad","135-136, 10th Floor, Sayaji Hotel, Mumbai-Bangalore, Bypass Highway, Shankar Kalat Nagar, Wakad, Pune, Maharashtra 411057",Pune,140,140,false,0,True,YES,Only for Lunch from Monday to Friday  one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.00 pm and last entry by 10.00 pm.,False,False,False,True,True,SAYAJI HOTELS
+"Sector 10, Rohini","6th Floor, Unity One Mall, Near Rohini West Metro Station New Delhi 110085",New Delhi,122,122,false,0,True,Only Parking Assistance,Only for Lunch from Monday to Friday One Round Soft drink or Mocktails,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,False,False,Unity One  Mall
+"Sector 11, Belapur","Sharda Terraces, Palm Beach Rd, Sector 11, CBD Belapur, Navi Mumbai, Maharashtra 400614, India",Mumbai,118,118,false,0,True,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 10.45 pm <br><br/>,False,False,False,False,True,"Sector 11, CBD Belapur"
+Sector 26,"SCO 39, Block 2, Sector 26, Madhya Marg, near Green Market, Chowk, Chandigarh, 160019",Chandigarh,146,146,false,0,True,Only Parking Assistance,Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,False,True,OPP CORPORATE BHAVAN
+"Sector 5, Nerul","First Floor, Plot No.20, Beverley Park, Sector 6, Palm Beach Road, Nerul,Above HDFC Bank, Navi Mumbai, Maharashtra 400706, India",Mumbai,60,60,false,0,True,Self Road Side Parking,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.15 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 10.45 pm <br><br/>,False,False,False,False,True,Beverley Park
+"Sector 5, Salt Lake","K 1, RDB Boulevard, Block Ep & Gp, Sector 5, Salt Lake,Kolkata, West Bengal 700091",Kolkata,112,112,false,0,True,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,NA
+Sector 59,"SC0 5&6, 1st Floor, Phase-V, Sector 59, SAS Nagar, Sahibzada Ajit Singh Nagar, Mohali, Punjab 160059",Mohali,110,110,false,0,True,No valet parking ( Mall Parking chargable ),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,NEAR KALYAN JEWELLERS
+"Sector C, Vasant Kunj","Plot No. 11, Local Shopping Center, Pyramid Building, Pocket 7, Sector C, Vasant Kunj, New Delhi, Delhi 110070",New Delhi,132,132,false,0,True,Only Parking Assistance,Lunch : Monday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.00 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,True,False,False,False,False,"Plot No. 11, Local Shopping Center, Pyramid Building"
+"Sector E, Aliganj","3rd floor, STW infinity, Plot no.5, opposite kendriya bhawan, near purania chauraha, sector e, Aliganj Lucknow, Uttar Pradesh -226024",Lucknow,136,136,false,0,False,NO,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,True,False,False,True,False,STW infinity
+"Selex Mall, East Fort","2nd Floor, Selex Mall, Eastfort, Thrissur, Kerala 680005, India",Thrissur,88,88,false,0,False,"No valet parking ( ""Mall Parking - paid parking"" )",Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Monday to Saturday Lunch open by 12.00 pm and close 04.30 pm and last entry is 03.30 pm <br><br/> Monday to Saturday Dinner by 06.30 pm and close by 11.30 pm and last entry is 10.30 pm <br><br/> Sunday lunch open by 11.30 am and close by 5.45 pm and last entry by 4.15 pm <br><br/> Sunday Dinner open by 06.30 pm and close by 11.30 pm and last entry is 10.30 pm <br><br/>,False,False,False,True,True,SELEX MALL YESOR
+"Sentrum Mall, Kanyapur","Sentrum Mall, 4th Floor, Shristi Nagar Road, Kanyapur, Asansol, West Bengal 713341",Asansol,110,110,false,0,False,Only Parking Assistance,No,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry 10.30 pm <br><br/>,False,False,False,True,True,Sentrum Mall
+Sevoke Road,"Barbeque nation Hospitality ltd,2nd Floor,PRM sevoke,1,Sevok Road,Siliguri,Westbengal-734001
+
+",Siliguri,126,126,false,0,False,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner open by 06.30 pm and close by 11.00 pm and last entry 10.00 pm <br><br/>,False,False,False,True,True,PRM SEVOK OPP HOTEL SUCHITRA
+Sharda College Road,"4/119, 3rd floor, Jayakumar plaza, Sharda College Road, Alagapuram, Salem-636016, Tamilnadu",Salem,89,89,false,0,False,Only Parking Assistance,Lunch / Friday and Saturday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,Fairlands polica station 
+Sohna Road,"SN G85, Gr Flr, Spaze Platinum Tower Gurgaon Sohna Highway,Near Raheja Mall, Sohna - Gurgaon Rd, Malibu Town, Sector 47, Gurugram, Haryana 122018",Gurugram,130,130,false,0,True,No valet parking ( Mall Parking),Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,False,False,SPAZE PLATIUM TOWER  SOHNA ROAD
+South Extension II,"D-6, 3rd floor, ring road, south extention-2, New delhi-110049
+
+",New Delhi,120,120,false,0,True,NA,No complimentary drinks for Lunch and dinner,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,True,True,True,False,Hazoorilal Legacy Jewellers
+"Square Mall, Civil Lines","P Square Mall,Near Civil Lines Bus Stand, 218E/71, MG Road, Civil Lines, Allahabad, Uttar Pradesh 211001, India",Prayagraj,93,93,false,0,True,No Valet parking ( Mall parking chargable  ),Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close 12.00 am and last entry for lunch 11.00 pm <br><br/>,False,False,False,True,True,Civil land Bus Stand
+"SS Omnia Mall, Sector 86","1st Floor, Ss Omnia mall sector 86, Gurgaon, 122505",Gurugram,108,108,false,0,True,No,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,Ss Omnia mall
+"Stellar IT Park, Sector 62"," floor plot no c, Stellar IT Park, 1st, 25, C Block, Phase 2, Industrial Area, Sector 62, Noida, Uttar Pradesh 201307",Noida,120,120,false,0,True,Mall Parking chargeable,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,NA
+STV Nagar,"4th floor,19-4-8/14 Dr. Agarwals Eye Hospital, AIR Bypass Rd, Near Passport office, STV Nagar, Tirupati, Andhra Pradesh 517501",Tirupati,114,114,false,0,False,No,Only for Lunch from Friday and  Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,True,False,False,True,True,Near Passport Office
+T Nagar Bazullah Road,"No. 39, 1st Floor, On Bazullah Road, Star City Service Apartments,Next to The Grand Sweets or Near Rama Rao Road, Chennai, Tamil Nadu 600017, India",Chennai,148,148,false,0,False,Self Parking,No,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry is 11.00 pm <br><br/>,False,False,True,False,True,NO 39 bazulla road siesta apartment next to grand sweet first floor near vasnt and co company
+The Grand Mall Velachery,"The Grand Mall, 1st Floor, 137, Dr Seetaram Nagar,, 1st Cross Street, Velachery - Tambaram High Road, Velachery, Chennai, Tamil Nadu 600042",Chennai,158,158,false,0,False,No valet parking ( Mall Parking chargable),Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,True,GOLDEN HIGHTS BUILDING
+TI Mall,"TI Mall, 3rd, 11, Mahatma Gandhi Rd, South Tukoganj, Indore, Madhya Pradesh-452001",Indore,133,133,false,0,True,No,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 11.45 pm and last entry 10.45 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close by 11.45 pm and last entry 10.45 pm <br><br/>,True,False,False,True,False,TI Mall
+"Times Square, Sakinaka","Time Square, Sakinaka, Unit No 1 &2, Ground Floor, C Wing Sagbaug, Near Marol Naka Metro Station, Andheri (East) - 400069",Mumbai,140,140,false,0,True,NA,Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail.,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:30 PM TO 9:15 PM
+
+9:15 PM TO 12.00 PM
+
+",False,False,False,False,False,Opposite Mittal Estate
+Tonk Road,"2nd Floor, Jaipur Centre Complex, Tonk road Jaipur - 302018",Jaipur,110,110,false,0,True,Only Parking Assistance,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,True,hotel bela kata  bitoo bypass
+Town Hall,"#1000, Hotel Metro Park Inn, Raja Street, Town Hall, 
+
+Coimbatore, Tamil Nadu 641001",Coimbatore,108,108,false,0,True,Only Parking Assistance,Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,"Kanniyammal temple, town hall"
+"Trade Centre, BKC","Unit No G1B, Trade Centre, BKC, Bandra East, Mumbai, 400051",Mumbai,128,128,false,0,True,NO,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 11.00 pm <br><br/>,False,False,False,False,False,"MMRDA Area, Bandra Kurla Complex"
+"Traffic More, Sodepur","Barbeque Nation Hospitality Ltd, 05th Floor, P92F+HQ5, Peerless Nagar, Ramkrishna Pally, Panihati, Khardaha, West Bengal 700110
+
+",Kolkata,118,118,false,0,False,No,We serve 1 round of complimentary drinks in Lunch from Monday to Friday..,"Lunch open by 12.00 pm and close by 04.30 pm and last entry by 04.30 pm.
+
+Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm",False,False,False,True,True,Sodepur Traffic More
+Udeshna Building,"Udeshna building, Hari Mandir Path, Sarumotoria, Guwahati, Assam 781036",Guwahati,116,116,false,0,False,No,Only for Lunch from Monday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and Close by 04.30 pm and Last entry for lunch 03.30 pm <br><br/><br><br/>Dinner open by 06.30 pm and close 11.30 pm and last 10.30 pm,False,False,False,True,True,Near PVR cinema or Down town hospital
+"Unity Mall, Janakpuri","Unity One, 2nd Floor, Narang Colony, Chander Nagar, Janakpuri, Narang Colony, Chander Nagar, Janakpuri, New Delhi, Delhi 110058",New Delhi,120,120,false,0,True,No valet parking ( Mall Parking chargable),Only for Lunch from Monday to Friday One Round Soft drink or Mocktails or Pint Beer   <br/><br/> Saturday One Round Soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry for lunch 04.00 pm <br><br/> Dinner open by 06.00 pm and close by 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,"Unity One Mall, 2nd Floor, Narang Colony"
+"Urban Estate, Phase 2","SCO 37, 38, Third Floor, Phase 2, Urban Estate Phase 2, Rajpura Road, NH 64, Patiala, Punjab 147002",Patiala,90,90,false,0,True,Only Parking Assistance,No,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,False,False,False,True,False,Vardhaman hospital
+Vadapalani,"No 1, 2nd Floor, Hotel Bheemas Amman Koil St, Jawaharlal Nehru Rd, near Murugan Temple, Vadapalani, Chennai, Tamil Nadu 600026",Chennai,160,160,true,30,False,YES,Only for Lunch Saturday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,True,"Hotel Bheemas, 2nd Floor, 100 Feet "
+Veeras Vega,"2nd Floor, Veeras Vega, No.68, Next to Reliance Mall, Perundurai Road, Erode, Tamil Nadu 638009, India",Erode,88,88,false,0,False,Only Parking Assistance,Only for Lunch Saturday one round soft drink or Mocktails.,Monday to Saturday Lunch open by 12.00 pm and close 04.30 pm and last entry is 03.30 pm <br><br/> Monday to Saturday Dinner by 06.30 pm and close by 11.30 pm and last entry is 10.30 pm <br><br/> Sunday lunch open by 11.30 am and close by 5.45 pm and last entry by 4.15 pm <br><br/> Sunday Dinner open by 06.30 pm and close by 11.30 pm and last entry is 10.30 pm <br><br/>,False,False,False,True,True,"Eras Vega, No.68, Next to Reliance Mall, Perundurai Road, Erode"
+"Vegas Mall, Sec-14, Dwarka","Barbeque Nation Hospitality Ltd, 5TH FLOOR SHOP NO. R-05 VEGAS MALL,POCKET 1 SECTOR -14 DWARKA DELHI -110078
+
+",New Delhi,104,104,false,0,True,NO,Lunch : Monday to Friday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry 04.00 pm <br><br/>Dinner open by 06.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>,True,False,False,True,False,( NEAR METRO STATION DWARKA SEC 14) VEGAS MALL
+"Venkatagiri Plaza, Gokul Road","2nd floor, Venkatagiri Plaza, Opp. Oasis Mall, Gokul Rd, Hubli, Karnataka 580030",Hubli,90,90,false,0,False,Only Parking Assistance,No,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,False,False,"Venkatagiri Plaza, Opp. Oasis Mall, Gokul Rd, Hubballi"
+"Virasha STC, Gulmohar Colony","2nd floor, Virasha STC, Bawadia kalan, Gulmohar colony, Bhopal-(M.P).462026",Bhopal,139,139,false,0,True,No,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close 12.00 am and last entry for lunch 11.00 pm <br><br/>,False,False,False,True,True,opposite to bharat petrolium
+Vithal Udyognagar Anand,"2ndFloor, MARUTI SOLARIS, Anand - Sojitra Road, Vithal Udyognagar, Sarvodaya Society, Anand, Gujarat 388345",Anand,122,122,false,0,False,NO,No,"Lunch open by 12.00 pm and close by 4.30 pm and last entry is 3.30 pm,<br><br/> Dinner start by 06.30 pm and close by 11.30 pm and last entry is 10.30 pm<br><br/>",True,False,False,True,True,Anand - Sojitra Road
+Waltair Road Vizag,"10-50-12, Opp Circuit House Waltair uplands, ward Ramnagar, Siripuram, Visakhapatnam, Andhra Pradesh 530003",Visakhapatnam,138,138,false,0,False,NA,We serve 1 round of complimentary drinks in Lunch from Monday to Saturday..,"12:00 PM to 2:30 PM
+
+2:30 PM TO 3:30PM
+
+6:00 PM TO 8:00 PM
+
+8:00 PM TO 10.00 PM
+
+",True,False,False,True,True,"10-50-12, Opp Circuit House Waltair uplands, ward Ramnagar, Siripuram, Visakhapatnam, Andhra Pradesh 530003"
+"Westend Mall, Aundh","4th floor, Westend Mall, Mahad ji shinde road, Near Parihar Chowk Harmony socirty, Wireless Colony, Aundh, Pune-411007",Pune,104,120,false,0,True,No,Only for Lunch from Wednesday to Friday one round soft drink or Mocktails.,Lunch open by 12.00 pm and close by 04.30 pm and last entry is 03.30 pm.<br><br/> Dinner open by 06.30 pm and close by 11.30 pm and last entry by 10.30 pm.,True,False,False,True,False,Westend Mall
+"Xperia Mall,Dombivli","Barbeque Nation Hospitality Ltd, Unit No-14,3rd Floor,Xperia Mall, Kalyan-Shilphata Road,Palava,Dombivli,Thane, Maharashtra 421204 
+
+",Mumbai,100,100,false,0,False,Mall Parking,We serve 1 round of complimentary soft drinks in Lunch from  Wednesday to Friday.,"Lunch open by 12.00 pm and close by 4.45 pm and last entry by 04.00 pm,
+
+Dinner open by 06,30 pm and close by 11.55 pm and last entry by 11.00 pm",False,False,True,True,False,Xperia Mall 
+Yelahanka,"1st Floor,Prestige Plaza, Yelahanka New Town Main Road, Yelahanka Rd, Bengaluru, Karnataka 560064",Bengaluru,108,108,false,0,False,No : Only Parking Assistance,Lunch / Wednesday to Saturday / 1 Round / Soft drink or Mocktail.,Lunch open by 12.00 pm and close 05.00 pm and last entry is 04.00 pm <br><br/> Dinner by 06.30 pm and close by 11.55 pm and last entry is 11.00 pm <br><br/>,False,False,False,True,True,Yelahanka New Town Main Road
+"YK Nagar, Virar West","3rd Floor, Above Big Bazaar, Yashwant Building, Village Dongre By Pass Road, YK Nagar, Virar West, Mumbai, Maharashtra 401304",Mumbai,110,110,true,20,True,NO,No,Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.30 pm <br><br/> Dinner by 06.30 pm and close by 11.45 pm and last entry 11.00 pm <br><br/>,False,False,False,True,True,"Above Big Bazaar, Yashwant Building, Village Dongre By Pass Road,"
+"Z Square Mall, MG Road","Shop - p3, 16 113, Mahatma Gandhi Rd, Downtown, Kanpur, Uttar Pradesh 208001",Kanpur,105,105,false,0,False,Only Parking Assistance,Only for Lunch from Monday to Saturday one round soft drink or Mocktails.,Monday to Friday Lunch open by 12.00 pm and close 04.30 pm and last entry for lunch 03.45 pm <br><br/> Sat & Sun outlet is open by 12.00 pm and close 12.00 am and last entry 11.00 pm <br><br/>Monday to Friday Dinner open by 06.00 pm and close 12.00 am and last entry for lunch 11.00 pm <br><br/>,False,False,False,True,True,Zster mall
